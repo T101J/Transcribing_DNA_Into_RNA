@@ -1,0 +1,4 @@
+DNA: GATGGAACTTGACTACGTAAATT
+RNA: GAUGGAACUUGACUACGUAAAUU
+
+Notice how the 'T' has been replaced with a 'U'
